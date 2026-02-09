@@ -1,0 +1,87 @@
+configuration:
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+  min_projectrank: 0
+  min_stars: 0
+  require_github: true
+  projects_history_folder: "history"
+  generate_toc: true
+  generate_legend: true
+  sort_by: "projectrank"
+
+categories:
+  - category: "load-forecasting"
+    title: "Load & Demand Forecasting"
+    subtitle: "AI/ML models for electrical load prediction, demand response, and consumption pattern analysis."
+  - category: "grid-optimization"
+    title: "Grid Optimization & Operations"
+    subtitle: "ML-driven optimal power flow, unit commitment, grid scheduling, and dispatch."
+  - category: "renewable-forecasting"
+    title: "Renewable Energy Forecasting"
+    subtitle: "Solar irradiance, wind power, and distributed generation prediction models."
+  - category: "fault-detection"
+    title: "Fault Detection & Diagnostics"
+    subtitle: "AI for power system fault detection, classification, protective relaying, and anomaly detection."
+  - category: "grid-stability"
+    title: "Grid Stability & Reinforcement Learning"
+    subtitle: "RL agents and ML models for voltage control, frequency regulation, and dynamic stability."
+  - category: "der-management"
+    title: "DER & Microgrid Intelligence"
+    subtitle: "AI for distributed energy resource management, microgrid control, and VPP optimization."
+  - category: "nlp-standards"
+    title: "NLP for Energy & Standards"
+    subtitle: "Large language models and NLP applied to energy documents, standards compliance, and knowledge extraction."
+  - category: "synthetic-data"
+    title: "Synthetic Data & Benchmarks"
+    subtitle: "Test networks, synthetic grid data generators, and benchmark datasets for power AI research."
+  - category: "computer-vision"
+    title: "Computer Vision for Infrastructure"
+    subtitle: "Image/video AI for power line inspection, vegetation management, equipment monitoring."
+  - category: "energy-markets"
+    title: "Energy Market & Price Forecasting"
+    subtitle: "ML models for electricity price prediction, market simulation, and trading strategies."
+
+labels:
+  - label: "python"
+    image: "https://www.python.org/static/favicon.ico"
+    description: "Python"
+  - label: "julia"
+    image: "https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/julia.ico"
+    description: "Julia"
+  - label: "jupyter"
+    image: "https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico"
+    description: "Jupyter Notebook examples"
+  - label: "tensorflow"
+    image: "https://www.gstatic.com/devrel-devsite/prod/v0d244f667a3683225cca86d0ecf9b9b81b1e734e55a030dcd3f3b3decd3a0b72/tensorflow/images/favicon.png"
+    description: "TensorFlow"
+  - label: "pytorch"
+    image: "https://pytorch.org/favicon.ico"
+    description: "PyTorch"
+  - label: "university"
+    image: "https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/university.ico"
+    description: "University project"
+  - label: "national-lab"
+    image: "https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/lab.ico"
+    description: "National laboratory project"
+
+projects:
+  - name: "Grid2Op"
+    github_id: "Grid2op/grid2op"
+    category: "grid-stability"
+    labels: ["python", "jupyter"]
+    description: "A platform for RL agent research on power grid operation."
+    pypi_id: "grid2op"
+
+  - name: "pandapower"
+    github_id: "e2nIEE/pandapower"
+    category: "grid-optimization"
+    labels: ["python", "jupyter"]
+    description: "Power system modeling and analysis with optimization capabilities."
+    pypi_id: "pandapower"
+
+  - name: "PyPSA"
+    github_id: "PyPSA/PyPSA"
+    category: "grid-optimization"
+    labels: ["python", "jupyter"]
+    description: "Python for Power System Analysis - optimization and simulation."
+    pypi_id: "pypsa"
