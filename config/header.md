@@ -19,4 +19,4 @@ This list tracks open-source projects at the intersection of **artificial intell
 
 Maintained as a resource for the **PES Long Range Planning Committee (LRPC)** and the broader power systems research and engineering community. Projects are ranked by a composite quality score based on GitHub activity, package downloads, and community engagement — updated automatically every week.
 
-> Curated by **Marty Engel, PE** | IEEE PES LRPC SC-5
+> Curated by **Marty McEnroe, PE** | IEEE PES LRPC SC-5
