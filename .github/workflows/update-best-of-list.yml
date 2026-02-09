@@ -17,6 +17,9 @@ env:
 jobs:
   update-best-of-list:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null }}
         name: set-version-from-input
