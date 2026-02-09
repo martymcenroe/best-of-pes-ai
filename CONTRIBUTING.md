@@ -42,7 +42,7 @@ Thanks for your interest in improving this list! Contributions from the power sy
 
 ## How to Suggest a New Category
 
-[Open an issue](https://github.com/ThriveTech-AI/best-of-pes-ai/issues/new) describing:
+[Open an issue](https://github.com/martymcenroe/best-of-pes-ai/issues/new) describing:
 - The proposed category name and key
 - Why it's distinct from existing categories
 - At least 2-3 example projects that would belong

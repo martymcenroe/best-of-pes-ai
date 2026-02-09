@@ -5,9 +5,9 @@
 
 Contributions are encouraged and appreciated! If you know of an open-source AI/ML project relevant to power and energy systems that isn't listed here, please:
 
-- **Add a project**: Edit the [projects.yaml](https://github.com/ThriveTech-AI/best-of-pes-ai/edit/main/projects.yaml) file and submit a pull request
-- **Suggest a category**: [Open an issue](https://github.com/ThriveTech-AI/best-of-pes-ai/issues/new) describing the proposed category
-- **Report a problem**: [Open an issue](https://github.com/ThriveTech-AI/best-of-pes-ai/issues/new) with details
+- **Add a project**: Edit the [projects.yaml](https://github.com/martymcenroe/best-of-pes-ai/edit/main/projects.yaml) file and submit a pull request
+- **Suggest a category**: [Open an issue](https://github.com/martymcenroe/best-of-pes-ai/issues/new) describing the proposed category
+- **Report a problem**: [Open an issue](https://github.com/martymcenroe/best-of-pes-ai/issues/new) with details
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
