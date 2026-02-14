@@ -28,3 +28,6 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Unleashed session transcripts (auto-generated, untracked)
+data/unleashed/
