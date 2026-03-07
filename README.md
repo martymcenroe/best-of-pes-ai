@@ -65,14 +65,14 @@ Maintained as a resource for the **PES Long Range Planning Committee (LRPC)** an
 
 _AI/ML models for electrical load prediction, demand response, and consumption pattern analysis._
 
-<details><summary><b><a href="https://www.lfenergy.org/projects/openstef/">OpenSTEF</a></b> (🥇23 ·  ⭐ 130) - Automated ML pipelines for short-term energy forecasting. LF.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://www.lfenergy.org/projects/openstef/">OpenSTEF</a></b> (🥇22 ·  ⭐ 130) - Automated ML pipelines for short-term energy forecasting. LF.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/OpenSTEF/openstef) (👨‍💻 43 · 🔀 39 · 📦 17 · 📋 170 - 23% open · ⏱️ 12.12.2025):
+- [GitHub](https://github.com/OpenSTEF/openstef) (👨‍💻 44 · 🔀 41 · 📦 17 · 📋 170 - 23% open · ⏱️ 06.03.2026):
 
 	```
 	git clone https://github.com/OpenSTEF/openstef
 	```
-- [PyPi](https://pypi.org/project/openstef) (📥 6K / month):
+- [PyPi](https://pypi.org/project/openstef) (📥 6.7K / month):
 	```
 	pip install openstef
 	```
@@ -91,41 +91,41 @@ _AI/ML models for electrical load prediction, demand response, and consumption p
 
 _ML-driven optimal power flow, unit commitment, grid scheduling, and dispatch._
 
-<details><summary><b><a href="https://pypsa.org">PyPSA</a></b> (🥈32 ·  ⭐ 1.8K) - Python for Power System Analysis - optimization and simulation of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://pypsa.org">PyPSA</a></b> (🥈32 ·  ⭐ 1.9K) - Python for Power System Analysis - optimization and simulation of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PyPSA/PyPSA) (👨‍💻 110 · 🔀 600 · 📦 320 · 📋 490 - 18% open · ⏱️ 06.02.2026):
+- [GitHub](https://github.com/PyPSA/PyPSA) (👨‍💻 110 · 🔀 610 · 📦 320 · 📋 510 - 18% open · ⏱️ 04.03.2026):
 
 	```
 	git clone https://github.com/PyPSA/PyPSA
 	```
-- [PyPi](https://pypi.org/project/pypsa) (📥 21K / month):
+- [PyPi](https://pypi.org/project/pypsa) (📥 29K / month):
 	```
 	pip install pypsa
 	```
-- [Conda](https://anaconda.org/conda-forge/pypsa) (📥 200K · ⏱️ 14.01.2026):
+- [Conda](https://anaconda.org/conda-forge/pypsa) (📥 210K · ⏱️ 25.02.2026):
 	```
 	conda install -c conda-forge pypsa
 	```
 </details>
 <details><summary><b><a href="https://github.com/PowerGridModel/power-grid-model">Power Grid Model</a></b> (🥈30 ·  ⭐ 210) - High-performance C++/Python distribution grid.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PowerGridModel/power-grid-model) (👨‍💻 33 · 🔀 54 · 📥 1.6K · 📦 38 · 📋 290 - 34% open · ⏱️ 02.02.2026):
+- [GitHub](https://github.com/PowerGridModel/power-grid-model) (👨‍💻 34 · 🔀 58 · 📥 1.5K · 📦 38 · 📋 300 - 34% open · ⏱️ 06.03.2026):
 
 	```
 	git clone https://github.com/PowerGridModel/power-grid-model
 	```
-- [PyPi](https://pypi.org/project/power-grid-model) (📥 97K / month):
+- [PyPi](https://pypi.org/project/power-grid-model) (📥 110K / month):
 	```
 	pip install power-grid-model
 	```
-- [Conda](https://anaconda.org/conda-forge/power-grid-model) (📥 4.4M · ⏱️ 03.02.2026):
+- [Conda](https://anaconda.org/conda-forge/power-grid-model) (📥 4.5M · ⏱️ 06.03.2026):
 	```
 	conda install -c conda-forge power-grid-model
 	```
 </details>
-<details><summary><b><a href="https://pypsa.org">PyPSA-USA</a></b> (🥉16 ·  ⭐ 120) - Open-source power systems model of US bulk transmission... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/university.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://pypsa.org">PyPSA-USA</a></b> (🥉18 ·  ⭐ 120) - Open-source power systems model of US bulk transmission... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/university.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PyPSA/pypsa-usa) (👨‍💻 13 · 🔀 39 · 📋 380 - 25% open · ⏱️ 11.09.2025):
+- [GitHub](https://github.com/PyPSA/pypsa-usa) (👨‍💻 16 · 🔀 41 · 📋 380 - 26% open · ⏱️ 10.02.2026):
 
 	```
 	git clone https://github.com/PyPSA/pypsa-usa
@@ -148,28 +148,28 @@ _Solar irradiance, wind power, and distributed generation prediction models._
 
 <details><summary><b><a href="https://github.com/PyPSA/atlite">Atlite</a></b> (🥇22 ·  ⭐ 370) - Calculating renewable power potentials from weather data. Part of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PyPSA/atlite) (👨‍💻 43 · 🔀 120 · 📦 110 · 📋 150 - 28% open · ⏱️ 19.09.2025):
+- [GitHub](https://github.com/PyPSA/atlite) (👨‍💻 43 · 🔀 120 · 📦 110 · 📋 150 - 29% open · ⏱️ 19.09.2025):
 
 	```
 	git clone https://github.com/PyPSA/atlite
 	```
-- [PyPi](https://pypi.org/project/atlite) (📥 3.5K / month):
+- [PyPi](https://pypi.org/project/atlite) (📥 3.7K / month):
 	```
 	pip install atlite
 	```
-- [Conda](https://anaconda.org/conda-forge/atlite) (📥 120K · ⏱️ 11.08.2025):
+- [Conda](https://anaconda.org/conda-forge/atlite) (📥 130K · ⏱️ 11.08.2025):
 	```
 	conda install -c conda-forge atlite
 	```
 </details>
-<details><summary><b><a href="https://github.com/PowerGenome/PowerGenome">PowerGenome</a></b> (🥉17 ·  ⭐ 230 · 💤) - Create inputs for power systems models including renewable.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/PowerGenome/PowerGenome">PowerGenome</a></b> (🥉17 ·  ⭐ 230) - Create inputs for power systems models including renewable.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PowerGenome/PowerGenome) (👨‍💻 18 · 🔀 73 · 📋 190 - 48% open · ⏱️ 21.03.2025):
+- [GitHub](https://github.com/PowerGenome/PowerGenome) (👨‍💻 18 · 🔀 74 · 📋 190 - 48% open · ⏱️ 13.02.2026):
 
 	```
 	git clone https://github.com/PowerGenome/PowerGenome
 	```
-- [PyPi](https://pypi.org/project/PowerGenome) (📥 120 / month):
+- [PyPi](https://pypi.org/project/PowerGenome) (📥 160 / month):
 	```
 	pip install PowerGenome
 	```
@@ -188,16 +188,16 @@ _AI for power system fault detection, classification, protective relaying, and a
 
 <details><summary><b><a href="https://pyod.readthedocs.io/">PyOD</a></b> (🥇37 ·  ⭐ 9.7K) - 50+ anomaly detection algorithms. 26M+ downloads. Widely used for grid.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/yzhao062/pyod) (👨‍💻 65 · 🔀 1.4K · 📦 5.5K · 📋 360 - 56% open · ⏱️ 05.01.2026):
+- [GitHub](https://github.com/yzhao062/pyod) (👨‍💻 65 · 🔀 1.4K · 📦 5.6K · 📋 360 - 56% open · ⏱️ 27.02.2026):
 
 	```
 	git clone https://github.com/yzhao062/pyod
 	```
-- [PyPi](https://pypi.org/project/pyod) (📥 970K / month):
+- [PyPi](https://pypi.org/project/pyod) (📥 1.2M / month):
 	```
 	pip install pyod
 	```
-- [Conda](https://anaconda.org/conda-forge/pyod) (📥 180K · ⏱️ 02.12.2025):
+- [Conda](https://anaconda.org/conda-forge/pyod) (📥 190K · ⏱️ 27.02.2026):
 	```
 	conda install -c conda-forge pyod
 	```
@@ -205,7 +205,7 @@ _AI for power system fault detection, classification, protective relaying, and a
 <details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/drivendataorg/power-laws-anomalies">Power Laws Anomalies</a></b> (🥈7 ·  ⭐ 32 · 💀) - Competition winning code for building energy anomaly.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/mile888/anomaly_identification">Power System Anomaly Identification</a></b> (🥉6 ·  ⭐ 22 · 💀) - WLS-EKF state estimation combined with ML for power.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/mile888/anomaly_identification">Power System Anomaly Identification</a></b> (🥉6 ·  ⭐ 21 · 💀) - WLS-EKF state estimation combined with ML for power.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/oneapi-src/powerline-fault-detection">Powerline Fault Detection</a></b> (🥉5 ·  ⭐ 3 · 💀) - Intel-optimized partial discharge detection using.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/AgHarsh/Fault-Detection-in-Power-Microgrid">Microgrid Fault Detection</a></b> (🥉4 ·  ⭐ 47 · 💀) - ANN-based fault detection and location in power.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
@@ -219,24 +219,24 @@ _RL agents and ML models for voltage control, frequency regulation, and dynamic 
 
 <details><summary><b><a href="https://l2rpn.chalearn.org/">Grid2Op</a></b> (🥇23 ·  ⭐ 410) - RL testbed for power grid operations. RTE France. L2RPN.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Grid2op/grid2op) (👨‍💻 32 · 🔀 130 · 📋 380 - 14% open · ⏱️ 04.02.2026):
+- [GitHub](https://github.com/Grid2op/grid2op) (👨‍💻 32 · 🔀 140 · 📋 390 - 15% open · ⏱️ 04.02.2026):
 
 	```
 	git clone https://github.com/Grid2op/grid2op
 	```
-- [PyPi](https://pypi.org/project/grid2op) (📥 2.9K / month):
+- [PyPi](https://pypi.org/project/grid2op) (📥 4K / month):
 	```
 	pip install grid2op
 	```
 </details>
-<details><summary><b><a href="https://github.com/Grid2op/lightsim2grid">LightSim2Grid</a></b> (🥇23 ·  ⭐ 62) - Fast C++ backend for Grid2Op power flow computations... <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Grid2op/lightsim2grid">LightSim2Grid</a></b> (🥇23 ·  ⭐ 63) - Fast C++ backend for Grid2Op power flow computations... <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Grid2op/lightsim2grid) (👨‍💻 9 · 🔀 14 · 📥 300 · 📦 74 · 📋 60 - 23% open · ⏱️ 05.02.2026):
+- [GitHub](https://github.com/Grid2op/lightsim2grid) (👨‍💻 9 · 🔀 14 · 📥 300 · 📦 75 · 📋 61 - 26% open · ⏱️ 05.02.2026):
 
 	```
 	git clone https://github.com/Grid2op/lightsim2grid
 	```
-- [PyPi](https://pypi.org/project/LightSim2Grid) (📥 23K / month):
+- [PyPi](https://pypi.org/project/LightSim2Grid) (📥 25K / month):
 	```
 	pip install LightSim2Grid
 	```
@@ -248,7 +248,7 @@ _RL agents and ML models for voltage control, frequency regulation, and dynamic 
 	```
 	git clone https://github.com/Grid2op/l2rpn-baselines
 	```
-- [PyPi](https://pypi.org/project/l2rpn-baselines) (📥 72 / month):
+- [PyPi](https://pypi.org/project/l2rpn-baselines) (📥 110 / month):
 	```
 	pip install l2rpn-baselines
 	```
@@ -260,14 +260,14 @@ _RL agents and ML models for voltage control, frequency regulation, and dynamic 
 	```
 	git clone https://github.com/Grid2op/chronix2grid
 	```
-- [PyPi](https://pypi.org/project/chronix2grid) (📥 250 / month):
+- [PyPi](https://pypi.org/project/chronix2grid) (📥 270 / month):
 	```
 	pip install chronix2grid
 	```
 </details>
-<details><summary><b><a href="https://github.com/emarche/RL2Grid">RL2Grid</a></b> (🥉6 ·  ⭐ 40) - RL benchmark for power grid operations. Built on Grid2Op... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/emarche/RL2Grid">RL2Grid</a></b> (🥉6 ·  ⭐ 41) - RL benchmark for power grid operations. Built on Grid2Op... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/emarche/RL2Grid) (🔀 7 · 📋 3 - 33% open · ⏱️ 05.01.2026):
+- [GitHub](https://github.com/emarche/RL2Grid) (🔀 8 · 📋 4 - 50% open · ⏱️ 05.01.2026):
 
 	```
 	git clone https://github.com/emarche/RL2Grid
@@ -296,9 +296,9 @@ _AI for distributed energy resource management, microgrid control, and VPP optim
 
 _Large language models and NLP applied to energy documents, standards compliance, and knowledge extraction._
 
-<details><summary><b><a href="https://github.com/statnett/Talk2PowerSystem">Talk2PowerSystem</a></b> (🥇10 ·  ⭐ 9) - Natural language interface for querying CIM-based.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/statnett/Talk2PowerSystem">Talk2PowerSystem</a></b> (🥇10 ·  ⭐ 10) - Natural language interface for querying CIM-based.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/statnett/Talk2PowerSystem) (👨‍💻 6 · 🔀 2 · 📋 17 - 11% open · ⏱️ 05.02.2026):
+- [GitHub](https://github.com/statnett/Talk2PowerSystem) (👨‍💻 6 · 🔀 2 · 📋 17 - 11% open · ⏱️ 23.02.2026):
 
 	```
 	git clone https://github.com/statnett/Talk2PowerSystem
@@ -312,26 +312,26 @@ _Large language models and NLP applied to energy documents, standards compliance
 
 _Test networks, synthetic grid data generators, and benchmark datasets for power AI research._
 
-<details><summary><b><a href="https://www.gridstatus.io/">GridStatus</a></b> (🥇25 ·  ⭐ 380) - Uniform API for US/Canada ISO electricity data. CAISO, ERCOT,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://www.gridstatus.io/">GridStatus</a></b> (🥇26 ·  ⭐ 400) - Uniform API for US/Canada ISO electricity data. CAISO, ERCOT,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/gridstatus/gridstatus) (👨‍💻 36 · 🔀 70 · 📦 24 · 📋 130 - 32% open · ⏱️ 06.02.2026):
+- [GitHub](https://github.com/gridstatus/gridstatus) (👨‍💻 40 · 🔀 73 · 📦 25 · 📋 130 - 33% open · ⏱️ 06.03.2026):
 
 	```
 	git clone https://github.com/gridstatus/gridstatus
 	```
-- [PyPi](https://pypi.org/project/gridstatus) (📥 34K / month):
+- [PyPi](https://pypi.org/project/gridstatus) (📥 64K / month):
 	```
 	pip install gridstatus
 	```
 </details>
-<details><summary><b><a href="https://helics.org/">HELICS</a></b> (🥈21 ·  ⭐ 160) - Co-simulation framework for energy systems. NREL/LLNL/PNNL/ANL.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://helics.org/">HELICS</a></b> (🥈22 ·  ⭐ 160 · 💤) - Co-simulation framework for energy systems. NREL/LLNL/PNNL/ANL.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/GMLC-TDC/HELICS) (👨‍💻 39 · 🔀 50 · 📥 31K · 📋 680 - 13% open · ⏱️ 16.08.2025):
+- [GitHub](https://github.com/GMLC-TDC/HELICS) (👨‍💻 39 · 🔀 51 · 📥 32K · 📋 680 - 13% open · ⏱️ 16.08.2025):
 
 	```
 	git clone https://github.com/GMLC-TDC/HELICS
 	```
-- [PyPi](https://pypi.org/project/helics) (📥 7K / month):
+- [PyPi](https://pypi.org/project/helics) (📥 10K / month):
 	```
 	pip install helics
 	```
@@ -339,7 +339,7 @@ _Test networks, synthetic grid data generators, and benchmark datasets for power
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/e2nIEE/simbench">SimBench</a></b> (🥉17 ·  ⭐ 130) - Benchmark dataset of German LV/MV/HV grids for power.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://power-grid-lib.github.io/">PGLib-OPF</a></b> (🥉10 ·  ⭐ 380 · 💀) - Benchmark library for optimal power flow. IEEE test cases.. <code>❗Unlicensed</code>
+- <b><a href="https://power-grid-lib.github.io/">PGLib-OPF</a></b> (🥉10 ·  ⭐ 390 · 💀) - Benchmark library for optimal power flow. IEEE test cases.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/power-grid-lib/pglib-uc">PGLib-UC</a></b> (🥉5 ·  ⭐ 110 · 💀) - Benchmark library for unit commitment problems. Standard test.. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -365,8 +365,8 @@ _ML models for electricity price prediction, market simulation, and trading stra
 
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/Carterbouley/ElectricityPricePrediction">Electricity Price Prediction</a></b> (🥇7 ·  ⭐ 73 · 💀) - Neural networks for day-ahead electricity price.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://www2.econ.iastate.edu/tesfatsi/AMESMarketHome.htm">AMES Market</a></b> (🥉6 ·  ⭐ 30) - Agent-based wholesale power market test bed. Iowa State.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/Carterbouley/ElectricityPricePrediction">Electricity Price Prediction</a></b> (🥇7 ·  ⭐ 74 · 💀) - Neural networks for day-ahead electricity price.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/ps-wiki/best-of-ps/main/config/icons/jupyter.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://www2.econ.iastate.edu/tesfatsi/AMESMarketHome.htm">AMES Market</a></b> (🥉6 ·  ⭐ 31) - Agent-based wholesale power market test bed. Iowa State.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 
 ---
