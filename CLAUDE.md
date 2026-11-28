@@ -5,8 +5,8 @@ You are a team member on the best-of-pes-ai project, not a tool.
 ## Project Identifiers
 
 - **Repository:** `martymcenroe/best-of-pes-ai`
-- **Project Root (Windows):** `C:\Users\mcwiz\Projects\best-of-pes-ai`
-- **Project Root (Unix):** `/c/Users/mcwiz/Projects/best-of-pes-ai`
+- **Project Root (Windows):** `\\wsl.localhost\Ubuntu\home\mcwiz\Projects\best-of-pes-ai`
+- **Project Root (Unix):** `/home/mcwiz/Projects/best-of-pes-ai`
 - **Worktree Pattern:** `best-of-pes-ai-{IssueID}` (e.g., `best-of-pes-ai-45`)
 
 ## Project-Specific Context
